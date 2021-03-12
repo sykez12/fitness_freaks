@@ -42,6 +42,19 @@ body {
     text-align: center;
 }
 
+.blog-title {
+    padding-top: 2rem;
+    text-decoration: underline;
+}
+
+.blog-post {
+    padding: 3rem;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
 .shop-now-button {
     background: white;
     color: black;

@@ -5,20 +5,18 @@
         <div class="row">
             <div class=" col-md-8 col-md-10 mx-auto">
                 <div class="site-heading">
-                    <h3 class=" site-heading my-4 mt-3"> Welcome to the Fitness Freaks Blog </h3>
-                    <p>Find out about all the latest news in the fitness world!
-                    </p>
+                    <h4 class=" site-heading my-4 mt-3"> Welcome to the Fitness Freaks Blog </h4>
+                    <h1 class="blog-title">{% block title %} {{ object.title }} {% endblock title %}</h1>
                 </div>
             </div>
         </div>
     </div>
 </header>
-<div class="container text-center">
+<div class="container text-center blog-post">
   <div class="row">
     <div class="col-12 card">
       <div class="card-body">
-        <h1>{% block title %} {{ object.title }} {% endblock title %}</h1>
-        <p class=" text-muted">{{ post.author }} | {{ post.created_on }}</p>
+        <p class=" text-muted">Created by {{ post.author }} | {{ post.created_on }}</p>
         <p class="card-text ">{{ object.content | safe }}</p>
       </div>
     </div>
