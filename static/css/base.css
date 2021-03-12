@@ -28,6 +28,10 @@ body {
     text-transform: uppercase;
 }
 
+.fitness-freaks {
+    color: lightblue;
+}
+
 .main-logo-link {
     width: fit-content;
 }
