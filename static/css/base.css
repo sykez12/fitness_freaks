@@ -24,12 +24,20 @@ body {
     color: white !important;
 }
 
+.home-display {
+    margin-top: 10rem;
+}
+
+.new-gear {
+    color: lightblue;
+}
+
 .logo-font {
     text-transform: uppercase;
 }
 
 .fitness-freaks {
-    color: lightblue;
+    color: lightblue !important;
 }
 
 .main-logo-link {
@@ -56,7 +64,7 @@ body {
 }
 
 .shop-now-button {
-    background: white;
+    background: lightblue;
     color: black;
     min-width: 260px;
 }
