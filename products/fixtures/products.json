@@ -6,7 +6,7 @@
       "sku": "pp5001340155",
       "name": "Hexagon Dumbbells",
       "description": "Available both as a complete kit and as single items, the Hexagon Dumbbells offer the highest quality and durability. Easy to store safely and enabling a wide range of exercises, they are particularly suited to Skillathletic and cross training.",
-      "price": 33.99,
+      "price": 26.99,
       "category": 1,
       "rating": 4.2,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/h/e/hex-dumbbell_hero.jpg",
@@ -20,9 +20,9 @@
       "sku": "pp5001600425",
       "name": "Bike Weights",
       "description": "Finish off your rides with an energetic free weights session and get a total body workout. The Bike Weights are specially designed to complement your cycling workouts. Made with a non-slip rubber coating, they are available in pairs of either 1.5 kg or 2.5 kg.",
-      "price": 58.99,
+      "price": 18.99,
       "category": 1,
-      "rating": 4.6,
+      "rating": 3.6,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/b/i/bike_weights-related.jpg",
       "image": "weights2.jpg"
     }
@@ -34,9 +34,9 @@
       "sku": "pp5001730010",
       "name": "Kettle Bells",
       "description": "Fitness Freak's durable, heavy duty kettlebells are stylish and safe. They're perfectly suited to all types of users of various fitness levels.",
-      "price": 205.99,
+      "price": 55.99,
       "category": 1,
-      "rating": 4.7,
+      "rating": 4.5,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/v/i/vinyl_coated_kettlebell_hero.jpg",
       "image": "weights3.jpg"
     }
@@ -48,9 +48,9 @@
       "sku": "pp5001890157",
       "name": "Dumbbells",
       "description": "Fitness Freak's new dumbbells are designed to offer a natural and more effective training feeling. They are highly resistant to falls and safe for use thanks to high-quality manufacturing materials and process.",
-      "price": 169.99,
+      "price": 45.99,
       "category": 1,
-      "rating": 3,
+      "rating": 4.1,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/d/u/dumbbellsracks_freeweights_hero.jpg",
       "image": "weights4.jpg"
     }
@@ -62,7 +62,7 @@
       "sku": "pp5002111605",
       "name": "Skill Bike",
       "description": "The only stationary bike with a real gear shift that lets you experience the thrill and challenges of outdoor cycling. Infinite virtual routes to explore. Precise, valuable feedback to improve your power and efficiency. Breathtaking races to enjoy with your friends, and much more.",
-      "price": 232.99,
+      "price": 2320.99,
       "category": 3,
       "rating": 5,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/s/k/skillbike_hero_2.jpg",
@@ -76,7 +76,7 @@
       "sku": "pp5002260206",
       "name": "Bike Personal",
       "description": "Introducing the new Bike Personal, a high-end exercise bike with a compact footprint and elegant design to shape the gym of your dreams in any environment. Getting addicted to your training was never this easy: the built-in Technogym Coach helps you reach your fitness objectives guiding you step by step.",
-      "price": 30.99,
+      "price": 2999.99,
       "category": 3,
       "rating": 4.7,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/b/i/bike_personal_ec_gallery_01.jpg",
@@ -90,9 +90,9 @@
       "sku": "pp5002440521",
       "name": "Bike Forma",
       "description": "Silent and stable, Bike Forma is the closest you get to cycling on the road. Use it as a standard bike, city bike or racing bike to tone legs and gluteal muscles in a fun and effective way.",
-      "price": 59,
+      "price": 2721.99,
       "category": 3,
-      "rating": 4.4,
+      "rating": 4.8,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/i/bike_forma_hero_1.jpg",
       "image": "bike3.jpg"
     }
@@ -104,9 +104,9 @@
       "sku": "pp5002601115",
       "name": "Recline Forma",
       "description": "With its wide-walk through and comfortable seat, Recline Forma is the perfect recumbent bike for active adults suffering from back pain or limited mobility seeking for a moderate cardio activity.",
-      "price": 36.99,
+      "price": 3600.99,
       "category": 3,
-      "rating": 4.5,
+      "rating": 4.2,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/r/e/recline_forma_hero_2.jpg",
       "image": "bike4.jpg"
     }
@@ -118,9 +118,9 @@
       "sku": "pp5002690715",
       "name": "MyRun Treadmill",
       "description": "Refined and compact design, adaptive running surface, and tailored training sessions right from your tablet.",
-      "price": 169.99,
+      "price": 1690.99,
       "category": 5,
-      "rating": 4.7,
+      "rating": 3.7,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/m/y/myrun_treadmill_hero_3.jpg",
       "image": "treadmill1.jpg"
     }
@@ -132,9 +132,9 @@
       "sku": "pp5002701115",
       "name": "Jog Forma",
       "description": "Jog Forma is a professional treadmill that allows you to enjoy simple and effective workouts thanks to the new user interface with QR code guidance and new hand sensors. The long life deck, sturdy frame and powerful motor enable superior performance.",
-      "price": 33.99,
+      "price": 950.99,
       "category": 5,
-      "rating": 4.4,
+      "rating": 3.4,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/j/o/jog_forma_hero_3.jpg",
       "image": "treadmill2.jpg"
     }
@@ -146,9 +146,9 @@
       "sku": "pp5002761055",
       "name": "F37 Treadmill",
       "description": "Stable, durable and technically innovative, the Sportstech F37 treadmill is your perfect training partner for running. With a top speed of 20 km/h and an inclination of up to 15%, it is the right treadmill for every training level.",
-      "price": 29.99,
+      "price": 290.99,
       "category": 5,
-      "rating": 3,
+      "rating": 3.2,
       "image_url": "https://www.sports-tech.uk.com/products/sportstech/GB/f37/gallery/default/220.jpg",
       "image": "treadmill3.jpg"
     }
@@ -160,7 +160,7 @@
       "sku": "pp5002820069",
       "name": "F75 Treadmill",
       "description": "High quality materials, such as the extra wide tread pattern, make every race a special event if you want to improve your fitness, achieve new goals or lose weight, training on a good treadmill offers countless possibilities. The Sportstech F75 treadmill is characterized by very good performance and allows a maximum speed of 20 km/h.",
-      "price": 19.99,
+      "price": 1180.99,
       "category": 5,
       "rating": 4.6,
       "image_url": "https://www.sports-tech.uk.com/products/sportstech/GB/f75/gallery/default/180-f75-treadmill.jpg",
@@ -174,9 +174,9 @@
       "sku": "pp5002820147",
       "name": "Men’s Hoodie Alpha Fleece",
       "description": "A full-zip hooded fleece made for extra comfort, indoors and out.",
-      "price": 20,
+      "price": 40,
       "category": 2,
-      "rating": 3.2,
+      "rating": 4.2,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/m/e/mens-hoodie-alpha-fleece_hero_1.jpg",
       "image": "top1.jpg"
     }
@@ -188,9 +188,9 @@
       "sku": "pp5002910572",
       "name": "Women’s Hoodie Alpha Fleece",
       "description": "A full-zip hooded fleece made for extra comfort, indoors and out.",
-      "price": 26.99,
+      "price": 40,
       "category": 2,
-      "rating": 4.7,
+      "rating": 4.5,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/w/o/womens-hoodie-alpha-fleece_hero_1.jpg",
       "image": "top2.jpg"
     }
@@ -202,9 +202,9 @@
       "sku": "pp5002990740",
       "name": "Men's Tank Delta-Welded",
       "description": "The Tank Delta is pure textile technology at the service of training.",
-      "price": 48.99,
+      "price": 18.99,
       "category": 2,
-      "rating": 4.8,
+      "rating": 4.5,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/m/e/mens-tank-delta-welded_hero_2.jpg",
       "image": "top3.jpg"
     }
@@ -216,9 +216,9 @@
       "sku": "pp5003050248",
       "name": "Women's Tank Top",
       "description": "This Tank Top helps you sustain the most intense workouts with its sweat-wicking fabric and superior feel.",
-      "price": 65.99,
+      "price": 18.99,
       "category": 2,
-      "rating": 4.4,
+      "rating": 4.1,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/w/o/womens-tank-top_hero_1.jpg",
       "image": "top4.jpg"
     }
@@ -230,7 +230,7 @@
       "sku": "pp5003070787",
       "name": "Men's Hybrid Pants",
       "description": "Designed to follow your every movement seamlessly, the Hybrid Pants provide unparalleled comfort.",
-      "price": 33.99,
+      "price": 23.99,
       "category": 4,
       "rating": 4.4,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/m/e/mens-hybrid-pants_hero_2.jpg",
@@ -244,7 +244,7 @@
       "sku": "pp5003090182",
       "name": "Women's Hybrid Pants",
       "description": "Designed to follow your every movement seamlessly, the Hybrid Pants bring you unparalleled comfort.",
-      "price": 59.99,
+      "price": 23.99,
       "category": 4,
       "rating": 4.8,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/w/o/womens-hybrid-pants_hero_1.jpg",
@@ -258,7 +258,7 @@
       "sku": "pp5003090186",
       "name": "Men's Shorts - Welded",
       "description": "Go to any length with your indoor workouts with Shorts that keep you dry and comfortable throughout your workout.",
-      "price": 60.99,
+      "price": 20.99,
       "category": 4,
       "rating": 5,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/m/e/mens-premium-shorts_hero_2.jpg",
@@ -274,7 +274,7 @@
       "description": "The Shorts are designed to let nothing get in the way of your mobility or comfort. ",
       "price": 20.99,
       "category": 4,
-      "rating": 4.7,
+      "rating": 4,
       "image_url": "https://www.technogym.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/w/o/womens-premium-shorts_hero_1.jpg",
       "image": "leggings4.jpg"
     }
