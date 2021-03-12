@@ -36,6 +36,12 @@ body {
     width: fit-content;
 }
 
+.masthead {
+    margin-top: 10rem;
+    color: #000;
+    text-align: center;
+}
+
 .shop-now-button {
     background: black;
     color: white;
