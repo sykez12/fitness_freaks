@@ -24,6 +24,11 @@ body {
     color: white !important;
 }
 
+.dropdown-menu {
+    border-radius: .75rem !important;
+    background-color: lightblue !important;
+}
+
 .home-display {
     margin-top: 10rem;
 }
